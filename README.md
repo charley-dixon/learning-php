@@ -2,6 +2,8 @@
 
 # LEARNING PHP
 
+![](https://cms-assets.tutsplus.com/cdn-cgi/image/width=400/uploads/users/769/posts/25584/preview_image/PHP.jpg)
+
 ## Introduction
 
 A long time ago I decided that I wanted to build a Wordpress-based portfolio so that I could have a CMS and add a blog. I purchased the domain, set up hosting, installed Wordpress, and began to customize different themes - but it was never quite enough control for my liking.
