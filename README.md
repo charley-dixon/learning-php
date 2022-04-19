@@ -29,11 +29,3 @@ In order to view the files locally, you must have PHP installed on your computer
 ## Viewing Notes
 
 - I've created a `<section>` element to house each individual PHP lesson throughout the course. Each element has an HTML class to toggle the display its display. Add the class like so to toggle: `<section class="hide">`
-
-## Lessons Learned
-
-- URL Parameters
-  - Great for storing information about a site
-  - Not secure
-  - `post` is a more secure method for URL params; input data does not appear in the URL
-    - Most developers use `post` in `<form>`'s
