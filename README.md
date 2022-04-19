@@ -13,4 +13,4 @@ In order to view the files, you must have PHP installed on your computer and ope
 1. Open CLI
 2. Navigate to desired root directory
 3. Type `php -S localhost:4000` to open root directory on port 4000
-4. In the URL bar, add `/path/file-name.php` to the file pathway to open the desired file name.
+4. In the URL bar, add `/path/file-name.php` to the file pathway to open the desired file inside the root directory
