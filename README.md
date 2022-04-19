@@ -4,13 +4,22 @@
 
 ## Introduction
 
-A long time ago I decided that I wanted to build a Wordpress-based portfolio so that I could have a CMS for creating blog content to develop my online voice. I purchased the domain, set up hosting, installed Wordpress, and began to customize different themes - but it was never quite enough control for my liking. I decided that I needed to learn how to develop Wordpress themes from scratch, which is when I came across [this course](https://youtu.be/-h7gOJbIpmo). Quickly I realized that I had insufficient knowledge of the prerequisite information to complete the course, and it was finally time to learn PHP (something I had been pushing off for awhile).
+A long time ago I decided that I wanted to build a Wordpress-based portfolio so that I could have a CMS and add a blog. I purchased the domain, set up hosting, installed Wordpress, and began to customize different themes - but it was never quite enough control for my liking.
 
-This repository is built with resources created during [this PHP from scratch tutorial](https://youtu.be/OK_JCtrrv-c).
+I already knew HTML, CSS, and Javascript so I decided that I needed to learn how to develop Wordpress themes from scratch. Quickly I realized that I had insufficient knowledge of the prerequisite information to complete the course, and it was finally time to learn PHP (something I had been pushing off for awhile).
 
-In order to view the files, you must have PHP installed on your computer and opened up on a local server. Follow these steps once PHP is installed (should be installed by default for Mac users):
+## Instructions
 
-1. Open CLI
-2. Navigate to desired root directory
-3. Type `php -S localhost:4000` to open root directory on port 4000
-4. In the URL bar, add `/path/file-name.php` to the file pathway to open the desired file inside the root directory
+In order to view the files locally, you must have PHP installed on your computer and opened up on a local server (should be installed by default for Mac users):
+
+1. Fork & download directory
+2. Open CLI
+3. Navigate to desired root directory (the repo that you forked in this case)
+4. Type `php -S localhost:4000` to open root directory on port 4000
+5. In the URL bar, add `/path/file-name.php` to open the desired file inside the root directory
+
+## Resources
+
+[PHP for Beginners](https://youtu.be/OK_JCtrrv-c)
+[Learn PHP for Wordpress](https://code.tutsplus.com/courses/learn-php-for-wordpress)
+[Wordpress Theme Development](https://youtu.be/-h7gOJbIpmo)
