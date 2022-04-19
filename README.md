@@ -20,6 +20,6 @@ In order to view the files locally, you must have PHP installed on your computer
 
 ## Resources
 
-[PHP for Beginners](https://youtu.be/OK_JCtrrv-c)
-[Learn PHP for Wordpress](https://code.tutsplus.com/courses/learn-php-for-wordpress)
-[Wordpress Theme Development](https://youtu.be/-h7gOJbIpmo)
+- [PHP for Beginners](https://youtu.be/OK_JCtrrv-c)
+- [Learn PHP for Wordpress](https://code.tutsplus.com/courses/learn-php-for-wordpress)
+- [Wordpress Theme Development](https://youtu.be/-h7gOJbIpmo)
